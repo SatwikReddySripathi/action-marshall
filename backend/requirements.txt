@@ -14,7 +14,7 @@ h11==0.16.0
 httpx==0.28.1
 idna==3.11
 pydantic==2.12.5
-pydantic_core==2.41.5
+pydantic_core==2.47.0
 python-dotenv==1.2.1
 PyYAML==6.0.3
 requests==2.32.5
