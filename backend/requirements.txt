@@ -12,7 +12,7 @@ h11==0.16.0
 # backend pytest suite). Not pulled in transitively by FastAPI
 # itself starting in starlette 0.37+, so declare it explicitly.
 httpx==0.28.1
-idna==3.11
+idna==3.17
 pydantic==2.12.5
 pydantic_core==2.41.5
 python-dotenv==1.2.1
