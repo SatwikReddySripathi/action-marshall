@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![Status](https://img.shields.io/badge/status-alpha-orange.svg)](#project-status)
-
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/action-marshall?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/action-marshall)
 ---
 
 ## What is this?
